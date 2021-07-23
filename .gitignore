@@ -109,6 +109,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.AutoCompleteEnv
 
 # Spyder project settings
 .spyderproject
@@ -127,3 +128,15 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+**/non-prio
+
+**/CA.csv
+**/FR.csv
+**/GB.csv
+**/US.csv
+**/SE.csv
+
+.vscode
+Test.ipynb
